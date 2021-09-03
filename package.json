@@ -4,17 +4,21 @@
   "description": "Proyecto realizado con el curso de JS profesional",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/DanielMarinBeltran/proyectoMediaPlayerPlatzi.git"
   },
-  "keywords": ["MediaPlayer, JavaScript, NPM"],
+  "keywords": [
+    "MediaPlayer, JavaScript, NPM"
+  ],
   "author": "Daniel Marin <danielmarin998@hotmail.com>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/DanielMarinBeltran/proyectoMediaPlayerPlatzi/issues"
   },
-  "homepage": "https://github.com/DanielMarinBeltran/proyectoMediaPlayerPlatzi#readme"
+  "homepage": "https://github.com/DanielMarinBeltran/proyectoMediaPlayerPlatzi#readme",
+  "browserslist": [
+    "last 1 Chrome version"
+  ]
 }
