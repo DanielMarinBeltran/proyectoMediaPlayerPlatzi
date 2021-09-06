@@ -2,6 +2,8 @@
     -webkit-font-smoothing: antiliased;
     -moz-osx-font-smoothing: grayscake;
     box-sizing: border-box;
+    padding: 0;
+    margin: 0;
 }
 
 body {
